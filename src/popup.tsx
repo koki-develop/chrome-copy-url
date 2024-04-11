@@ -1,7 +1,7 @@
-import "~style.css"
+import "~style.css";
 
 function IndexPopup() {
-  return <div>hello, world</div>
+  return <div>hello, world</div>;
 }
 
-export default IndexPopup
+export default IndexPopup;
