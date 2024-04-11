@@ -16,6 +16,7 @@
     "tailwindcss": "3.4.1"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.6.4",
     "@types/chrome": "0.0.258",
     "@types/node": "20.11.5",
     "@types/react": "18.2.48",
