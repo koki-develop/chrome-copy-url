@@ -2,8 +2,8 @@
   "name": "copy-url",
   "displayName": "Copy url",
   "version": "0.0.1",
-  "description": "TODO",
-  "author": "TODO",
+  "description": "Copy the current tab's URL to the clipboard",
+  "author": "koki-develop <kou.pg.0131@gmail.com>",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
